@@ -1,0 +1,62 @@
+/* Add your amazing style here! */
+* {
+	padding: 0px;
+	margin: 5px 0px 5px 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+	height: 40px;
+	width: auto;
+    background-color: #941751; /* Green */
+    border: none;
+    color: white;
+    padding: 0px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+input{
+	height: 40px;
+	font-size: 15px;
+	box-sizing: border-box;
+	appearance: none;
+}
+
+select {	
+	height: 40px;
+	font-size: 15px;
+	background:none;
+	border-color: lightgray;
+}
+
+table {
+	font-family: verdana,arial,sans-serif;
+	font-size:14px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #cecece;
+	border-collapse: collapse;
+	width: auto;
+	
+}
+
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #941751;
+	background-color: #941751;
+	color: white;
+}
+
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #cecece;
+	background-color: #ffffff;
+}
